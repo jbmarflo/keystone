@@ -202,5 +202,8 @@
       "!packages/fields/types.js",
       "!packages/mongo-join-builder/examples/**"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/jbmarflo"
   }
 }
